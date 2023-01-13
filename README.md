@@ -1,2 +1,2 @@
-# Far_TouchDesigner
+# Fur_TouchDesigner
  TouchDesignerでのシェル法を用いたファーのサンプル
